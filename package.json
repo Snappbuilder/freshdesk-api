@@ -1,0 +1,24 @@
+{
+  "name": "freshdesk-api",
+  "version": "1.0.0",
+  "description": "The library for using Freshdesk API v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snappbuilder/freshdesk-api.git"
+  },
+  "author": "Snapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snappbuilder/freshdesk-api/issues"
+  },
+  "homepage": "https://github.com/Snappbuilder/freshdesk-api#readme",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "q": "^1.4.1",
+    "superagent": "^1.8.0"
+  }
+}
